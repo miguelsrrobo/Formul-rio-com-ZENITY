@@ -1,2 +1,2 @@
-# Formul-rio-com-ZENITY
+# Formulario-com-ZENITY
 Criei um formulário simples com ZENITY
